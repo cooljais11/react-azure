@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           DICE Hackers are coming !!!
+          2 days to go !!
         </p>
         <a
           className="App-link"
